@@ -4,7 +4,7 @@ Babel==2.3.4
 backports.shutil-get-terminal-size==1.0.0
 decorator==4.0.11
 docutils==0.13.1
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.1.6
 funcparserlib==0.3.6
 future==0.16.0
